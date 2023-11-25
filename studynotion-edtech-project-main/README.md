@@ -54,6 +54,9 @@ Node.js: Node.js is used as the primary framework for the back end.
 ### CourseView
 ![Alt text](src/utils/Screenshots/CourseView.png)
 
+### Wishlist & Checout
+![Alt text](src/utils/Screenshots/WishlistCheckout.png)
+
 
 
 For more details or Collaboration, feel free to contact me at abrdhk@gmail.com.
