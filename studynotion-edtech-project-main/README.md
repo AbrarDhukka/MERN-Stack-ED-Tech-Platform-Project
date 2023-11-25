@@ -52,7 +52,7 @@ Node.js: Node.js is used as the primary framework for the back end.
 ![Alt text](src/utils/Screenshots/EdtechHomePage.png)
 
 ### CourseView
-![Alt text](src/utils/Screenshots/CourseView.png)
+![Alt text](src/utils/Screenshots/Courseview.png)
 
 ### Wishlist & Checkout
 ![Alt text](src/utils/Screenshots/WishlistCheckout.png)
